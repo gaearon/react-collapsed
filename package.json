@@ -25,8 +25,8 @@
     "release": "np --no-2fa"
   },
   "peerDependencies": {
-    "react": ">=16.8",
-    "react-dom": ">=16.8"
+    "react": ">=18",
+    "react-dom": ">=18"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
@@ -63,9 +63,9 @@
     "microbundle": "^0.13.3",
     "np": "^6.4.0",
     "prettier": "^2.3.2",
-    "react": "^17",
+    "react": "next",
     "react-docgen-typescript-loader": "^3.7.1",
-    "react-dom": "^17",
+    "react-dom": "next",
     "semantic-release": "^18.0.0",
     "styled-components": "^5.2.0",
     "ts-jest": "^27.0.5",
